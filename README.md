@@ -1,5 +1,5 @@
 # sql_PowerBI_Project
-- Database was designed and created using Sql management server studio SSMS
+- Database (CarSalesDB-ExportedData.bacpac) was designed and created, exported using Sql management server studio SSMS
 - Data in the Excel files was extracted by sql server management studio queries and copied into excel files only to show on github
 - PowerBI was connected to sql server management studio directly for dashbboard development
 - In the dashboard, charts are looking into data as follows:
